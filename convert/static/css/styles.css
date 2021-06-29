@@ -5,8 +5,8 @@ html {
 body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 25px;
-  color: #ffffff;
-  background-color: #141414;
+  color: #4D4DB3;
+  background-color: #808080;
 }
 
 .navbar-brand {
@@ -15,7 +15,7 @@ body {
 
 .navbar-dark .navbar-toggler {
   color: white;
-  border-color: white;
+  border-color: #808080;
 }
 
 #upload {

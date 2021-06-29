@@ -1,1 +1,15 @@
-*.sqlite3
+db.sqlite3
+PDFconverter/__pycache__/__init__.cpython-37.pyc
+PDFconverter/__pycache__/settings.cpython-37.pyc
+PDFconverter/__pycache__/urls.cpython-37.pyc
+PDFconverter/__pycache__/wsgi.cpython-37.pyc
+convert/__pycache__/__init__.cpython-37.pyc
+convert/__pycache__/admin.cpython-37.pyc
+convert/__pycache__/apps.cpython-37.pyc
+convert/__pycache__/models.cpython-37.pyc
+convert/__pycache__/pypdf.cpython-37.pyc
+convert/__pycache__/views.cpython-37.pyc
+convert/migrations/__pycache__/__init__.cpython-37.pyc
+convert/temp/
+venv/
+temp/
