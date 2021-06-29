@@ -1,0 +1,8 @@
+asgiref==3.3.4
+Django==3.2.4
+pyPdf==1.13
+pypiwin32==223
+pywin32==301
+sqlparse==0.4.1
+tabula==1.0.5
+typing-extensions==3.10.0.0
