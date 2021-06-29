@@ -18,7 +18,8 @@ APP目录：convert
 
 ### 核心程序
 
-* 转换程序为`/convert/pypdf.py`，首先需要安装几个包，其中`pythoncom` 可`pip install pypiwin32` 安装，`pythoncom`通过`pip install pywin32`安装
+* 转换程序为`/convert/pypdf.py`，首先需要安装几个包，其中`pythoncom` 可`pip install pypiwin32` 安装，`pythoncom`通过`pip install pywin32`安装.
+* `pypdf.py`中，将调用本地的word程序，实现将pdf转换的功能，因此需要要求用户电脑上已经安装word程序，这一点需要改进。
 
 ```python
 import tabula
